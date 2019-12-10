@@ -1,4 +1,15 @@
 {
+    "format": {
+        "jsbeautify": {
+            "@formatOnSave": true
+        }
+    },
+    "instance": {
+        "@automaticShutdown": "60"
+    },
+    "javascript": {
+        "@use_jsbeautify": true
+    },
     "language": {
         "tern_defs": {
             "json()": {
